@@ -69,7 +69,7 @@ Once it's installed, you'll see new options like **"Open with Live Server"** whe
 
 ## 🚀 4. Run a Demo
 
-1. In the folder list, open one of the lesson folders — for example: [JavaScript/01-console-log/index.html](/JavaScript/01-console-log/index.html)
+1. Withing VS, in the folder list, open one of the lesson folders — for example: [JavaScript/01-console-log](/JavaScript/01-console-log)
 2. Right-click `index.html` and choose **"Open with Live Server"**
 3. Your default browser should open and display the page
 4. Press `F12` to open the developer console and see the output
