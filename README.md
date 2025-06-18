@@ -1,3 +1,7 @@
+# ADD A NEW SECITOn
+
+This is a new sections
+
 # Ledbury Coding Hub
 
 Welcome to the Ledbury Coding Meetup resource hub!
